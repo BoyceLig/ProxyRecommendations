@@ -1,6 +1,6 @@
 友情推荐1：魔戒VPN
 
-[注册链接](https://www.mojie.nl/#/register?code=FX0UPsZ9)    
+注册链接：<https://www.mojie.nl/#/register?code=FX0UPsZ9>
 
 [讨论组](https://t.me/Lord_Rings)    
 
@@ -22,7 +22,7 @@
 
 友情推荐2：Cherry VPN
 
-[注册地址](https://cherrycdnto.blob.core.windows.net/main/index.html?/#/register?code=0O1r8hO4)   
+注册地址：<https://cherrycdnto.blob.core.windows.net/main/index.html?/#/register?code=0O1r8hO4>
 
 [讨论组](https://t.me/cherrylink_vpn)    
 
